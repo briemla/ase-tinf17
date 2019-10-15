@@ -6,7 +6,7 @@
 1. Mirko Dostmann
 
 ## Inhalt
-### 01.10.18 - Programming Principles (Briem)
+### 01.10.19 - Programming Principles (Briem)
 * SOLID
   * Single Responsibility
   * Open Closed
