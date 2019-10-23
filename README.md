@@ -39,3 +39,12 @@
 * Erbauer
 * Kompositum
 * Strategie
+
+### 22.10.18 - API Design
+* Geschichte
+* Definition
+* Vor/Nachteile
+* Qualitätsmerkmale
+* Vorgehen beim Entwurf
+    * **Use Cases übersprungen**
+* Fortführung in der nächste Einheit
