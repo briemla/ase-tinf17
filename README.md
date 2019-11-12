@@ -48,3 +48,50 @@
 * Vorgehen beim Entwurf
     * **Use Cases übersprungen**
 * Fortführung in der nächste Einheit
+
+### 29.10.18 - API Design
+
+* APIs auf Objektebene
+    * bis einschließlich Benennung
+    * wird fortgeführt in der nächsten Einheit
+    * APIs auf Objektebene
+        * Typisierung
+        * Minimale Sichtbarkeit
+        * Hilfsmethoden
+        * optionale Rückgabewerte
+        * Exceptions 
+        * Interfaces / Fluent Interfaces
+        * Template-Methoden
+        * Callback-Methoden
+        * Annotationen
+        * Immutability
+        * Threadsicherheit
+    * Kompatibilität
+        * Code-Kompatibilität
+        * binäre Kompatibilität
+        * funktionale Kompatibilität
+        * Verwandschaftsbeziehung
+        * Design By Contract
+        * Änderungen in der Praxis
+    * Fortführung in der nächste Einheit
+
+### 05.11.18 - API Design & FRP
+* API-Design
+    * Web APIs -> RESTful HTTP
+        * Definition REST
+        * Hypermedia
+        * HTTP-Standardmethoden
+        * HATEOAS
+        * Beispiel Webshop
+        * Asynchrone Bearbeitung
+        * Fehlerbehandlung
+        * URI Design
+        * Versionierung
+        * Partielle Rückgabe
+        * Security
+* FRP
+    * Einführung
+    * Kompositionalitätsprinzip
+    * referentielle Transparenz
+    * Beispiel Donut Shop
+    * **alles einschließlich ab Folie 30 (Zustandsmaschine) wurde nicht behandelt**   
