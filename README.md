@@ -95,3 +95,24 @@
     * referentielle Transparenz
     * Beispiel Donut Shop
     * **alles einschließlich ab Folie 30 (Zustandsmaschine) wurde nicht behandelt**   
+
+### 25.02.20 - (Unit) Testing
+* Arten von Tests
+* xUnit/JUnit
+* A-TRIP Regeln
+  * Automatic
+  * Thorough
+  * Repeatable
+  * Independent
+  * Professional
+
+### 03.03.20 - (Unit) Testing
+* Matcher
+* Mocking
+* Code Coverage
+* Test First/TDD
+
+### 03.03.20 - Refactoring
+* Bedeutung/Definition
+* Gründe für Refactoring
+* Zeitpunkt für Refactoring
