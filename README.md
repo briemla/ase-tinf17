@@ -116,3 +116,20 @@
 * Bedeutung/Definition
 * Gründe für Refactoring
 * Zeitpunkt für Refactoring
+
+### 10.03.20 - Refactoring
+* Schwierigkeiten mit Refactoring
+* Code Smells
+  * Duplicated Code
+  * Long Method
+  * Large Class
+  * Shotgun Surgery
+  * Switch Statements
+  * Code Comments
+* Refactorings
+  * Extract Method
+  * Rename Method
+  * Replace Temp with Query
+  * Replace Conditional with Polymorphism
+  * Replace ErrorCode with Exception
+  * Replace Inheritance with Delegation
