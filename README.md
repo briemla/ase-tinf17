@@ -133,3 +133,35 @@
   * Replace Conditional with Polymorphism
   * Replace ErrorCode with Exception
   * Replace Inheritance with Delegation
+
+### 17.03.20 - UI Entwicklung (online)
+* Rollen bei der UI Entwicklung
+* User Centered Design Process
+* Definition Usability/User Experience
+* Analyse
+* Mentales Modell
+* Design
+* Anzahl Features vs. Komplexität
+* Gestalt Prinzipien
+
+### 24.03.20 - Usability Evaluation (online)
+* Experten Review
+  * Systemstatus
+  * Realität vs. System
+  * Konsistenz / Einhaltung von Standards
+  * Flexibilität
+  * Gedächtnis des Benutzers entlasten
+  * Minimalistisches Design
+  * Benutzern einen Ausweg lassen
+  * Fehlervermeidung
+  * Fehlerbehandlung
+  * Hilfe und Dokumentation
+* Usability Test
+  * Testarten
+  * Vorbereitung
+  * Einführung
+  * Durchführung
+  * Auswahlkriterien
+  * Häufige Fehler
+  * Evaluation
+  * A / B Tests
